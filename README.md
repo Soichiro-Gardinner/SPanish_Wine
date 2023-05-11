@@ -1,4 +1,4 @@
-# Wine Acidity Prediction
+# Wine Acidity Prediction.
 
 Business Problem and Stakeholders
 A wine company wants to optimize the acidity levels of their wines. They want to know the acidity level that makes their wines the most enjoyable to their customers. The stakeholders are the company executives who make business decisions based on the wine acidity prediction models.
